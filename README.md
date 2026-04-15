@@ -96,8 +96,8 @@ La table `enrollments` est une table de jointure entre les étudiants et les cou
 
 ---
 
-## 📌 Auteur
-Projet étudiant – Système de gestion scolaire
+## 📌 ERD Diagramm
+
 
 ![alt text](image.png)
 

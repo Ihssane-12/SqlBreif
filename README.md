@@ -99,4 +99,5 @@ La table `enrollments` est une table de jointure entre les étudiants et les cou
 ## 📌 Auteur
 Projet étudiant – Système de gestion scolaire
 
-![Uploading image.png…]()
+![alt text](image.png)
+
